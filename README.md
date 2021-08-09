@@ -1,16 +1,10 @@
 # dynamic_listview_physics
 
-A new Flutter project.
+In this Flutter project i tried to hide overscroll glow when we have under 3 childs in our listview.
+So fot that i made the physics of listview dynamic according to child number.
 
-## Getting Started
+### Demo:
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/82409174/128684534-56998d90-aeab-4936-bbd2-bd7916694239.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I would appreciate if you give star to this project.
